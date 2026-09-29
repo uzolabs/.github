@@ -63,5 +63,3 @@ Soon: `npm i @uzolabs/sdk` and import `botChain` directly.
 - Website: [uzolabs.xyz](https://uzolabs.xyz)
 - X: [@uzolabs](https://x.com/uzolabs)
 - Found a gap in the BOT Chain developer experience? Open an issue. That's our backlog.
-
-Built in Lagos.
